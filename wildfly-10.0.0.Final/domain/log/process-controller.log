@@ -1,0 +1,12 @@
+2017-12-09 21:19:17,324 INFO  [org.jboss.modules] (main) JBoss Modules version 1.5.1.Final
+2017-12-09 21:19:17,388 INFO  [org.jboss.as.process.Host Controller.status] (main) WFLYPC0018: Starting process 'Host Controller'
+2017-12-09 21:19:18,983 INFO  [org.jboss.as.process.Server:server-one.status] (ProcessController-threads - 3) WFLYPC0018: Starting process 'Server:server-one'
+2017-12-09 21:19:20,015 INFO  [org.jboss.as.process.Server:server-two.status] (ProcessController-threads - 3) WFLYPC0018: Starting process 'Server:server-two'
+2017-12-09 21:24:25,965 INFO  [org.jboss.as.process] (Shutdown thread) WFLYPC0017: Shutting down process controller
+2017-12-09 21:24:25,966 INFO  [org.jboss.as.process.Host Controller.status] (Shutdown thread) WFLYPC0019: Stopping process 'Host Controller'
+2017-12-09 21:24:25,995 INFO  [org.jboss.as.process.Server:server-one.status] (ProcessController-threads - 4) WFLYPC0019: Stopping process 'Server:server-one'
+2017-12-09 21:24:25,997 INFO  [org.jboss.as.process.Server:server-two.status] (ProcessController-threads - 4) WFLYPC0019: Stopping process 'Server:server-two'
+2017-12-09 21:24:26,197 INFO  [org.jboss.as.process.Server:server-one.status] (reaper for Server:server-one) WFLYPC0011: Process 'Server:server-one' finished with an exit status of 130
+2017-12-09 21:24:26,226 INFO  [org.jboss.as.process.Server:server-two.status] (reaper for Server:server-two) WFLYPC0011: Process 'Server:server-two' finished with an exit status of 130
+2017-12-09 21:24:26,309 INFO  [org.jboss.as.process.Host Controller.status] (reaper for Host Controller) WFLYPC0011: Process 'Host Controller' finished with an exit status of 130
+2017-12-09 21:24:26,310 INFO  [org.jboss.as.process] (Shutdown thread) WFLYPC0016: All processes finished; exiting
